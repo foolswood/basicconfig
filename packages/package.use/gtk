@@ -1,0 +1,2 @@
+# required by x11-libs/gtk+-3.22.16::gentoo
+>=x11-libs/cairo-1.14.8 X

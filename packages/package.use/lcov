@@ -1,0 +1,7 @@
+# required by dev-perl/GD-2.560.0-r1::gentoo[png]
+# required by dev-util/lcov-1.11::gentoo
+# required by lcov (argument)
+>=media-libs/gd-2.2.4 png
+# required by dev-util/lcov-1.11::gentoo
+# required by lcov (argument)
+>=dev-perl/GD-2.560.0-r1 png
